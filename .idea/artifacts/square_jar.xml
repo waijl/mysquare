@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="square:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/square_jar</output-path>
+    <root id="archive" name="mysquare.jar">
+      <element id="module-output" name="mysquare" />
+    </root>
+  </artifact>
+</component>
